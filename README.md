@@ -4,15 +4,22 @@ DNS-Blockliste für die AVM FritzBox – blockiert Werbung, Tracking, Telemetrie
 
 ## Einbinden in die FritzBox
 
+> **Hinweis:** Diese Funktion erfordert die Beta-Firmware von AVM (FRITZ!Lab). Nur bestimmte Modelle werden unterstützt.
+> Beta-Firmware herunterladen: [fritz.com/fritz-lab](https://fritz.com/en/pages/fritz-lab-fresh-from-development)
+
 1. FritzBox-Oberfläche öffnen: `http://fritz.box`
-2. **Heimnetz** → **Netzwerk** → **DNS-Rebind-Schutz** (oder je nach Firmware: **Heimnetz** → **Heimnetzübersicht** → **DNS**)
-3. Unter "Blacklist" folgende URL eintragen:
+2. **Heimnetz** → **Netzwerk** → Reiter **Netzwerkeinstellungen**
+3. Nach unten scrollen zu **Erweiterte Netzwerkeinstellungen** und aufklappen
+4. Reiter **DNS-Filter** öffnen
+5. Checkbox **FritzBox als DNS-Filter** aktivieren
+6. Unter **DNS-Filterliste** auf **Filterliste hinzufügen** (rechts unten) klicken
+7. Einen Namen vergeben und folgende URL eintragen:
 
 ```
 https://cdn.jsdelivr.net/gh/deltacore-labs/AdBlockerList@main/blocklist.txt
 ```
 
-4. Speichern und Liste aktualisieren.
+8. Speichern und Liste aktualisieren.
 
 ## Inhalt
 
