@@ -31,4 +31,5 @@ jobs:
           git add blocklist.txt README.md
           TOTAL=$(grep -cv '^#\|^$' blocklist.txt)
           git commit -m "chore: update blocklist $(date -u +%Y-%m-%d) (${TOTAL} entries)"
+          git pull --rebase origin main
           git push
