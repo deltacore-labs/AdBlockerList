@@ -1,7 +1,23 @@
 # Whitelist: Diese Domains dürfen NIEMALS geblockt werden
 # Der Build-Prozess filtert die finale blocklist.txt gegen diese Liste.
+# Neue Einträge hier einfügen, dann "Actions → Update Blocklist → Run workflow".
 
-# GitHub
+# === CDN & Infrastruktur ===
+# (Dahinter laufen tausende Websites - Blockierung bricht viele Dienste)
+cloudfront.net
+fastly.net
+akamai.net
+akamaized.net
+akamaihd.net
+edgekey.net
+cloudflare.com
+cloudflare.net
+cdnjs.cloudflare.com
+jsdelivr.net
+unpkg.com
+bootstrapcdn.com
+
+# === GitHub ===
 github.com
 api.github.com
 raw.githubusercontent.com
@@ -11,28 +27,126 @@ uploads.github.com
 avatars.githubusercontent.com
 user-images.githubusercontent.com
 github.githubassets.com
+githubassets.com
+github.io
 
-# Google (Kernfunktionen, keine Werbung)
+# === Microsoft / Office 365 ===
+microsoft.com
+office.com
+office365.com
+sharepoint.com
+microsoftonline.com
+live.com
+outlook.com
+hotmail.com
+xbox.com
+windowsupdate.com
+update.microsoft.com
+download.microsoft.com
+
+# === Apple ===
+apple.com
+icloud.com
+me.com
+mac.com
+
+# === Google (Kernfunktionen, keine Werbung) ===
+accounts.google.com
 mail.google.com
 myaccount.google.com
 play.google.com
 scholar.google.com
-accounts.google.com
+drive.google.com
+docs.google.com
+calendar.google.com
 fonts.google.com
 fonts.gstatic.com
+gstatic.com
+maps.google.com
+maps.googleapis.com
+translate.google.com
+translate.googleapis.com
+support.google.com
 
-# Enzyklopädien / Bildung
+# === Amazon (Shop & AWS-Infrastruktur) ===
+amazon.com
+amazon.de
+amazon.co.uk
+amazon.fr
+amazon.es
+amazon.it
+amazonaws.com
+aws.amazon.com
+
+# === E-Commerce & Bezahlung ===
+paypal.com
+stripe.com
+klarna.com
+etsy.com
+ebay.com
+ebay.de
+shopify.com
+ups.com
+dhl.de
+dhl.com
+dpd.de
+fedex.com
+
+# === Streaming & Entertainment ===
+netflix.com
+primevideo.com
+disneyplus.com
+twitch.tv
+spotify.com
+
+# === Kommunikation & Zusammenarbeit ===
+discord.com
+discordapp.com
+slack.com
+zoom.us
+whatsapp.com
+telegram.org
+signal.org
+
+# === Cloud-Speicher & Entwickler-Tools ===
+dropbox.com
+gitlab.com
+bitbucket.org
+npmjs.com
+npmjs.org
+pypi.org
+docker.com
+hub.docker.com
+
+# === Deutsche E-Mail-Anbieter ===
+web.de
+gmx.net
+gmx.de
+t-online.de
+posteo.de
+
+# === Deutsche Medien ===
+bild.de
+spiegel.de
+zeit.de
+heise.de
+golem.de
+
+# === Enzyklopädien / Bildung ===
 wikipedia.org
 wikimedia.org
 wikidata.org
+wiktionary.org
+stackoverflow.com
+stackexchange.com
 
-# Home Assistant
+# === Home Assistant & Smart Home ===
 home-assistant.io
 www.home-assistant.io
-supervisor.home-assistant.io
 my.home-assistant.io
+nabu.casa
 
-# BambuLab
+# === BambuLab ===
 bambulab.com
 cloud.bambulab.com
 studio.bambulab.com

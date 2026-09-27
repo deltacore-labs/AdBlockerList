@@ -26943,7 +26943,6 @@ akamai-apigateway-gio-analytics.tesla.cn-new.edgekey.net.globalredir.akadns88.ne
 akamai-apigateway-gio-analytics.tesla.cn.eo.dnse4.com
 akamai-apigateway-sentry.tesla.cn
 akamai.tt.omtrdc.net
-akamaihd.net
 akamaimedia.net
 akane-ad.com
 akanexterna.com
@@ -28714,10 +28713,8 @@ amazon-sye-ads-dvr.dlt.qwilted-cds.cqloud.com
 amazon-tam-match.dotomi.com
 amazon-us-03-00.dsa.metric.edgekey.net
 amazon-video-musique.com
-amazon.com
 amazon.wii-info.fr
 amazon8898.com
-amazonaws.com
 amazonboxus.com
 amazonco.uk
 amazoncustomerservice.d2.sc.omtrdc.net
@@ -51962,7 +51959,6 @@ bilbocine.com
 bilborsen.webannonse.no
 bilboshyppedsimpers.cyou
 bilbospsaltrybord.cfd
-bild.de
 bild.de.ssl.sc.omtrdc.net
 bild.met.vgwort.de
 bilder-a.akamaihd.net
@@ -66943,7 +66939,6 @@ cloudflrcdn.com
 cloudforestsystems.com
 cloudfrale.com
 cloudfront-labs.amazonaws.com
-cloudfront.net
 cloudfronte.com
 cloudfruitshop.com
 cloudg.combinatus.com.br
@@ -100240,7 +100235,6 @@ etsfshop.xyz
 etskom.com
 etspubliofficewallon.sc.omtrdc.net
 etsy-identity-check113.sbs
-etsy.com
 etsyshield.com
 ett26.ostkueste.com
 ettalecture.cyou
@@ -181692,7 +181686,6 @@ microsoft-notifcation.com
 microsoft-support.net
 microsoft-update.support
 microsoft-verify.glitch.me
-microsoft.com
 microsoft.devq.workers.dev
 microsoft.msafflnk.net
 microsoft23-uslive4.online
@@ -189552,7 +189545,6 @@ netflix-play.fr
 netflix-renovacion-pago.com
 netflix-updatepayment.com
 netflix.avdhoothadke.com
-netflix.com
 netflix520.com
 netflixandchiffres.com
 netflixinyourneighborhoodnm.com
@@ -195406,7 +195398,6 @@ office-feishu.com.cn
 office-g.events.data.microsoft.com
 office-lexware.org
 office-windows.com
-office.com
 office.events.data.microsoft.com
 office.org
 office96-direkt.info
@@ -203086,7 +203077,6 @@ paypal-fee-calculator-4p0.pages.dev
 paypal-play.fr
 paypal-team.com
 paypal.112.2o7.net
-paypal.com
 paypal.no
 paypalcz.cz
 paypalssl.doubleclick.net
@@ -247103,7 +247093,6 @@ sharempeg.com
 sharenice.org
 shareno1wish.net
 sharepenknife.com
-sharepoint.com
 sharepoint.idera.com
 shareresults.com
 sharervoder.qpon
@@ -306512,7 +306501,6 @@ uprwwyfqk.com
 ups-packaging.delivery
 ups-sdk-error.17m3.com
 ups-sdk-error.17m3.com.cdn.dnsv1.com
-ups.com
 ups.com.ssl.sc.omtrdc.net
 ups.ksmobile.net
 ups.liglig.com.br
@@ -315948,7 +315936,6 @@ web.comunicaciones.toysrus.pt
 web.comunicazioni.iol.it
 web.connect.garnethealth.org
 web.consolid8.com.au
-web.de
 web.diebayerische.de
 web.digihouse-werbeagentur.at
 web.digitale-visitenkarte.app
