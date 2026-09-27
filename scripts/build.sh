@@ -5,6 +5,7 @@ HAGEZI_URL="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pr
 OUTPUT="blocklist.txt"
 MANUAL="manual_additions.txt"
 EXTENDED="extended_list.txt"
+WHITELIST="whitelist.txt"
 
 echo "Downloading HaGeZi Multi PRO..."
 curl -sL --compressed "$HAGEZI_URL" -o /tmp/hagezi_base.txt
@@ -13,16 +14,22 @@ HAGEZI_COUNT=$(grep -cv '^#\|^$' /tmp/hagezi_base.txt)
 echo "HaGeZi entries: $HAGEZI_COUNT"
 
 echo "Merging lists..."
+# Build sorted whitelist (strip comments)
+grep -v '^#\|^$' "$WHITELIST" | sort > /tmp/whitelist_clean.txt
+WHITELIST_COUNT=$(wc -l < /tmp/whitelist_clean.txt)
+echo "Whitelist entries: $WHITELIST_COUNT"
+
 {
   # Keep HaGeZi header
   grep '^#' /tmp/hagezi_base.txt
-  # Merge all domain sources, deduplicate, sort
+  # Merge all domain sources, deduplicate, sort, then remove whitelisted domains
   {
     grep -v '^#\|^$' /tmp/hagezi_base.txt
     grep -v '^#\|^$' "$MANUAL"
     grep -v '^#\|^$' "$EXTENDED"
-  } | sort -u
+  } | sort -u | comm -23 - /tmp/whitelist_clean.txt
 } > "$OUTPUT"
+rm -f /tmp/whitelist_clean.txt
 
 TOTAL=$(grep -cv '^#\|^$' "$OUTPUT")
 MANUAL_COUNT=$(grep -cv '^#\|^$' "$MANUAL")
