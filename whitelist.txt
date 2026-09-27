@@ -153,3 +153,35 @@ studio.bambulab.com
 api.bambulab.com
 iot.bambulab.com
 auth.bambulab.com
+
+# === Deutsche Streaming-Dienste ===
+# RTL Plus / RTL Group (adalliance = Content-Gate, ohne läuft RTL Plus nicht)
+adalliance.io
+adalliance.com
+adalliance-a.akamaihd.net
+rtlplus.com
+rtl.de
+n-tv.de
+geo.rtlplus.com
+strms.net
+
+# ZDF / ARD Mediathek
+zdf.de
+ardmediathek.de
+ard.de
+das-erste.de
+br.de
+ndr.de
+wdr.de
+mdr.de
+swr.de
+rbb-online.de
+hr-online.de
+phoenix.de
+
+# ProSiebenSat.1
+joyn.de
+prosieben.de
+sat1.de
+kabel1.de
+sixx.de
