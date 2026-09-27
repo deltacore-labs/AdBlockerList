@@ -25,22 +25,44 @@ https://cdn.jsdelivr.net/gh/deltacore-labs/AdBlockerList@main/blocklist.txt
 
 | Quelle | Einträge |
 |---|---|
-| HaGeZi Multi PRO Blocklist | 228.217 |
-| Manuell ergänzt | 86 |
-| **Gesamt** | **228.303** |
+| HaGeZi Multi PRO Blocklist | 228887 |
+| Manuell ergänzt | 259 |
+| Erweiterte Subdomain-Liste | 104227 |
+| **Gesamt** | **331772** |
 
-### Manuell ergänzte Kategorien
+Letzte Aktualisierung: 2026-09-27
 
-- **Social Media Ads:** Facebook, Twitter, LinkedIn, Pinterest, Reddit, TikTok, YouTube
-- **Analytics:** Google Analytics, Yahoo Analytics, Yandex Metrika
-- **Heatmap/Session-Tools:** Hotjar, Mouseflow, LuckyOrange, Freshmarketer
-- **Error Tracking:** Sentry, Bugsnag
-- **Mobile Hersteller:** Xiaomi/MIUI, Samsung, Huawei/HiCloud, OPPO, Realme, OnePlus
-- **Sonstige:** Unity Ads, Yahoo Gemini, media.net, Amazon S3 Ad-Domains
+### Manuell ergänzte Kategorien (`manual_additions.txt`)
+
+- **Social Media Ads:** Facebook/Meta, Twitter/X, LinkedIn, Pinterest, Reddit, TikTok, YouTube
+- **Analytics:** Google Analytics/Tag Manager, Yahoo Analytics, Yandex Metrika, Adobe Omniture, Microsoft Clarity
+- **Heatmap/Session-Tools:** Hotjar, Mouseflow, LuckyOrange, Freshmarketer, Smartlook, FullStory
+- **Error Tracking:** Sentry, Bugsnag, Rollbar
+- **Mobile Hersteller:** Xiaomi/MIUI, Samsung ACR, Huawei/HiCloud, OPPO, Realme, OnePlus
+- **Sonstige:** Unity Ads, media.net, Amazon Ads, Apple Tracking, Spotify Ads
+
+### Erweiterte Subdomain-Liste (`extended_list.txt`)
+
+Enthält ~104.000 subdomain-spezifische Tracking-Einträge (z.B. Analytics-Endpunkte einzelner Websites). Diese werden bei jedem Update beibehalten.
+
+## Dateien
+
+| Datei | Beschreibung |
+|---|---|
+| `blocklist.txt` | Fertige Blockliste (wird automatisch generiert) |
+| `manual_additions.txt` | Manuell gepflegte Ergänzungen (nach Kategorie) |
+| `extended_list.txt` | Erweiterte Subdomain-Einträge |
+| `scripts/build.sh` | Build-Skript zum lokalen Generieren der Liste |
 
 ## Aktualisierung
 
-Die Liste basiert auf der [HaGeZi DNS Blocklist](https://github.com/hagezi/dns-blocklists) und wird bei Bedarf manuell aktualisiert.
+Die Liste wird täglich automatisch via GitHub Actions aktualisiert:
+- Aktuelle [HaGeZi Multi PRO](https://github.com/hagezi/dns-blocklists) Basis wird heruntergeladen
+- Mit `manual_additions.txt` und `extended_list.txt` zusammengeführt
+- Duplikate werden entfernt, Liste wird sortiert
+- README-Statistiken werden automatisch aktualisiert
+
+Manuellen Update-Trigger: **Actions** → **Update Blocklist** → **Run workflow**
 
 ## Lizenz
 

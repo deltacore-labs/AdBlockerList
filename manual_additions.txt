@@ -1,0 +1,281 @@
+# ============================================================
+# Manuell gepflegte Ergänzungen zur HaGeZi Multi PRO Basis
+# Kategorien: Social Media Ads, Analytics, Heatmap-Tools,
+#             Error Tracking, Mobile Hersteller, Sonstige
+# ============================================================
+
+# === Social Media Ads ===
+# Facebook / Meta
+ads.facebook.com
+connect.facebook.net
+connect.facebook.com
+pixel.facebook.com
+graph.facebook.com
+an.facebook.com
+api.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
+edge-chat.facebook.com
+external.xx.fbcdn.net
+lookaside.facebook.com
+lookaside.fbsbx.com
+scontent.xx.fbcdn.net
+web.facebook.com
+z-m-scontent.xx.fbcdn.net
+z-m-graph.facebook.com
+
+# Twitter / X Ads
+ads-api.twitter.com
+analytics.twitter.com
+business.twitter.com
+cas.twitter.com
+syndication.twitter.com
+ton.twitter.com
+t.co
+
+# LinkedIn Ads
+ads.linkedin.cn
+ads.linkedin.com
+px.ads.linkedin.com
+dc.ads.linkedin.com
+snap.licdn.com
+
+# Pinterest Ads
+ads.pinterest.com
+ct.pinterest.com
+log.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
+
+# Reddit Ads
+ads.reddit.com
+alb.reddit.com
+events.reddit.com
+redd.it
+pixel.redditmedia.com
+pixel.reddit.com
+redditstatic.com
+
+# TikTok Ads
+ads.tiktok.com
+analytics.tiktok.com
+business.tiktok.com
+log.tiktokv.com
+log-va.tiktokv.com
+mon.tiktokv.com
+sf16-scmcdn-va.ibytedtos.com
+
+# YouTube Ads
+s.youtube.com
+ads.youtube.com
+yt3.ggpht.com
+
+# === Analytics ===
+# Google Analytics / Tag Manager
+google-analytics.com
+analytics.google.com
+googletagmanager.com
+googletagservices.com
+googlesyndication.com
+pagead2.googlesyndication.com
+pagead2.googleadservices.com
+adservice.google.com
+stats.g.doubleclick.net
+cm.g.doubleclick.net
+ad.doubleclick.net
+ad-g.doubleclick.net
+ad-apac.doubleclick.net
+ad-emea.doubleclick.net
+ad-ace.doubleclick.net
+accounts.doubleclick.net
+fls.doubleclick.net
+cm.g.doubleclick.net
+securepubads.g.doubleclick.net
+pubads.g.doubleclick.net
+imasdk.googleapis.com
+tpc.googlesyndication.com
+
+# Yahoo Analytics
+analytics.yahoo.com
+ads.yahoo.com
+gemini.yahoo.com
+adserver.yahoo.com
+pixel.advertising.yahoo.com
+udc.yahoo.com
+
+# Yandex Metrika
+mc.yandex.ru
+mc.yandex.com
+mc.admetrica.ru
+awaps.yandex.ru
+awaps.yandex.net
+bs.yandex.ru
+an.yandex.ru
+an.yandex.com
+
+# Adobe Analytics / Omniture
+omtrdc.net
+2o7.net
+demdex.net
+everesttech.net
+adobedtm.com
+sc.omtrdc.net
+adobedc.net
+data.adobedc.net
+
+# Microsoft Clarity / Bing Ads
+bat.bing.com
+ads.msn.com
+clarity.ms
+c.clarity.ms
+b.clarity.ms
+
+# === Heatmap & Session Recording Tools ===
+# Hotjar
+hotjar.com
+static.hotjar.com
+script.hotjar.com
+vars.hotjar.com
+insights.hotjar.com
+adm.hotjar.com
+identify.hotjar.com
+vc.hotjar.io
+
+# Mouseflow
+mouseflow.com
+cdn.mouseflow.com
+cdn-test.mouseflow.com
+api.mouseflow.com
+
+# LuckyOrange
+luckyorange.com
+api.luckyorange.com
+cdn.luckyorange.com
+cs.luckyorange.com
+live.luckyorange.com
+w1.luckyorange.com
+
+# Freshmarketer / Freshworks
+freshmarketer.com
+freschat.io
+wchat.freshchat.com
+claritybt.freshmarketer.com
+
+# Smartlook
+smartlook.com
+rec.smartlook.com
+manager.smartlook.com
+
+# FullStory
+fullstory.com
+rs.fullstory.com
+edge.fullstory.com
+
+# === Error Tracking ===
+# Sentry
+sentry.io
+o0.ingest.sentry.io
+o1.ingest.sentry.io
+browser.sentry-cdn.com
+
+# Bugsnag
+bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+notify.bugsnag.com
+sessions.bugsnag.com
+
+# Rollbar
+rollbar.com
+api.rollbar.com
+
+# === Mobile Hersteller Telemetrie ===
+# Xiaomi / MIUI
+analytics.miui.com
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
+tracking.miui.com
+log.intl.miui.com
+logbak.intl.miui.com
+logbak.miui.com
+new.log.intl.miui.com
+extm.miui.com
+tracking.intl.miui.com
+e.crashsight.qq.com
+abtest.mistat.xiaomi.com
+abtest.mistat.intl.xiaomi.com
+a.union.xiaomi.com
+a.market.xiaomi.com
+ad.cdn.pandora.xiaomi.com
+11-c3.bigdata.ctc.neo.xiaomi.com
+5-c3.bigdata.ctc.neo.xiaomi.com
+3rdupgrade.pandora.xiaomi.com
+activity.hybrid.xiaomi.com
+
+# Samsung
+acr-au-prd.samsungcloud.tv
+acr-br-prd.samsungcloud.tv
+acr-ca-prd.samsungcloud.tv
+acr-eu-prd.samsungcloud.tv
+acr-in-prd.samsungcloud.tv
+acr-kr-prd.samsungcloud.tv
+acr-mx-prd.samsungcloud.tv
+acr-nz-prd.samsungcloud.tv
+acr-us-prd.samsungcloud.tv
+acr0.samsungcloudsolution.com
+acr1.samsungcloudsolution.com
+samsungads.com
+analytics.samsung.com
+
+# Huawei / HiCloud
+logservice.hicloud.com
+metrics.cloud.huawei.com
+drcs.hicloud.com
+safety.hicloud.com
+collects.hicloud.com
+dre.hicloud.com
+grs.hicloud.com
+
+# OPPO / Realme / OnePlus
+data.ads.oppomobile.com
+adx.oppomobile.com
+oaid.heytapmobi.com
+tracking.realme.com
+data.oneplus.com
+
+# === Sonstige Werbenetzwerke ===
+# Unity Ads
+unityads.unity3d.com
+adserver.unityads.unity3d.com
+auction.unityads.unity3d.com
+config.unityads.unity3d.com
+publisher-event.unityads.unity3d.com
+tracking.adsx.unityads.unity3d.com
+events.iap.unity3d.com
+cdp.cloud.unity3d.com
+
+# media.net
+media.net
+static.media.net
+contextual.media.net
+
+# Amazon Ads
+aax.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+fls-eu.amazon-adsystem.com
+fls-na.amazon-adsystem.com
+s.amazon-adsystem.com
+
+# Apple Tracking
+metrics.icloud.com
+xp.apple.com
+bag.itunes.apple.com
+init.itunes.apple.com
+
+# Spotify Ads
+adeventtracker.spotify.com
+audio-sp-lon.spotify.com
+audio-sp-sto.spotify.com
+audio-sp-ams.spotify.com
