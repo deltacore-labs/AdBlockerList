@@ -40704,8 +40704,6 @@ api.srceprirode.rs
 api.stahlhart.com.br
 api.startbeglobal.com
 api.startmedico.com.br
-api.statsig.com
-api.statsigcdn.com
 api.staydepot.com.br
 api.stelariss.com.br
 api.stores.eu-west-1.prod.paets.advertising.amazon.dev.cardano.com
@@ -43992,7 +43990,6 @@ assets2.terrischeer.com.au
 assets2.vanz.vero.co.nz
 assets2.vero.co.nz
 assets2.vero.com.au
-assetsconfigcdn.org
 assetscramsdryinid.qpon
 assetstore.unity.com
 assetstudio.org
@@ -51087,7 +51084,6 @@ beyondgoodness.com
 beyondherlimits.com
 beyondmeasure.rigoltech.com
 beyondpayors.com
-beyondwickedmapping.org
 beyourxfriend.com
 bez.vowega.de
 bezanty.com
@@ -101578,7 +101574,6 @@ events.squarespace.com
 events.srfestival.com
 events.staffboom.com
 events.statesidefest.com
-events.statsigapi.net
 events.storifyme.com
 events.storista.io
 events.stylux.io
@@ -104906,12 +104901,10 @@ featulink.casa
 feature-fix.net.mydays.de
 feature-flag-edge.live.clickbus.net
 feature.fm
-featureassets.org
 featured.bradyid.com
 featured.perfectionholic.com
 featured.premiermedia.net
 featuregangster.com
-featuregates.org
 featureinfo-service-sg.allawnos.com
 featurelockout.com
 featurerunalltestsalways.net.mydays.de
@@ -278949,7 +278942,6 @@ statsforever.com
 statshunt.com
 statsie.com
 statsig.prizepicks.com
-statsigapi.net
 statsit.com
 statsjs.klevu.com
 statsmachine.com

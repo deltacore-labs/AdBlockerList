@@ -242,3 +242,18 @@ captive.apple.com
 launch.apple.com
 securemvt.apple.com
 experiments.apple.com
+
+# === GoodNotes ===
+goodnotes.com
+goodnotescloud.com
+goodnotes-devops.com
+statsig.com
+statsigapi.net
+api.statsig.com
+events.statsigapi.net
+api.statsigcdn.com
+featuregates.org
+featureassets.org
+assetsconfigcdn.org
+prodregistryv2.org
+beyondwickedmapping.org
