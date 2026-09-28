@@ -20683,7 +20683,6 @@ ads.apn.co.nz
 ads.apotheke-adhoc.de
 ads.app.wechat.com
 ads.appbundledownload.com
-ads.apple.com
 ads.apple.com.akadns.net
 ads.applevid.com
 ads.appmarsch.at
@@ -24165,7 +24164,6 @@ advertising.amazon.com.be
 advertising.amazon.dev
 advertising.aolp.jp
 advertising.apartmenttherapy.com
-advertising.apple.com
 advertising.bulurum.com
 advertising.civitai.com
 advertising.cms.web.gc.evertonfcservices.co.uk
@@ -24338,7 +24336,6 @@ advoncommerce.com
 advortex.cloud
 advotionhot.com
 advozcevf.com
-advp.apple.com
 advp1.com
 advp2.com
 advp3.com
@@ -26496,7 +26493,6 @@ aioan.tailoredcanvases.com
 aiojgikjbhzqe.website
 aiopfjpikqblq.space
 aiore.misshaus.com
-aios-otel-collector.g.apple.com
 aip-cdn.sozcu.com.tr
 aip2.sozcu.com.tr
 aipharmaweekly.com
@@ -30018,7 +30014,6 @@ analytics-eu.data.visenze.com
 analytics-eu.tactilews.com
 analytics-eu1.slido.com
 analytics-events.apis.classlink.com
-analytics-events.apple.com
 analytics-events.calm.com
 analytics-events.inshorts.com
 analytics-events.tocaboca.com
@@ -39451,7 +39446,6 @@ api-ad-product.huxiu.com
 api-ad.233lyly.com
 api-ad.chuangyuejoy.com
 api-ads-v3.betforce.io
-api-adservices.apple.com
 api-adx-callback.falconnet.app
 api-adx.52qumao.com
 api-an.tutu.ru
@@ -46270,7 +46264,6 @@ axksv.com
 axl-staking.de
 axljfv.therosebay.co.kr
 axljlsidtcge.com
-axm-telemetry.apple.com
 axm-telemetry.v.aaplimg.com
 axmabdamdpka.com
 axmaxhsa.com
@@ -54683,7 +54676,6 @@ bookoffonline.co.jp
 bookofsex.com
 bookpostponemoreover.com
 bookrecommendations.org
-books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
 books.wonderwraps.com
 books555.com
@@ -91714,7 +91706,6 @@ drunkwinter.com
 drupa.com
 drupalcms-sgtm-staging.1800gotjunk.com
 drupalcms-sgtm.1800gotjunk.com
-drupalmetrics.ppg.apple.com
 druruelap.xyz
 drutsylaylzqx.site
 druxaloria365.com
@@ -93661,7 +93652,6 @@ dyztytjvtqcsx.online
 dz-ad-lgsmartad-com.aws-prd.net
 dz.colordownbye.com
 dz.curatekrait.com
-dz1dt3wqswdezgx4j2ryem5iad.apple.com
 dz2fz0bgyq9tn.cloudfront.net
 dz3tfc2m9.com
 dz4ad.com
@@ -101247,7 +101237,6 @@ eventportalonline.ru
 eventrecorder.cm.bloomberg.com
 eventregonline.ru
 eventremised.shop
-events-analytics.apple.com
 events-api.gazetadopovo.com.br
 events-api.lyrebirdstudio.net
 events-api.negocedespros.com
@@ -108321,7 +108310,6 @@ flipsbardee.com
 flipsterusdt.com
 flipt-metrics-bridge.app.prd.wendys.digital
 fliptfeets.net
-flirfvysba2opz0zmzqs5iuiad.apple.com
 flirt-hotlady.com
 flirt.com
 flirt4e.com
@@ -119192,7 +119180,6 @@ grafana.raffles.com.vn
 grafana.sifadns.net
 grafana.tt.omtrdc.net
 grafatorio.com
-graffiti-tags.apple.com
 graffitiimpishraider.com
 graffsconc.click
 grafpedia.com
@@ -134710,7 +134697,6 @@ iad-usadmm-ds.dotomi.com
 iad-usadmm.dotomi.com
 iad.anm.co.uk
 iad.appboy.com
-iad.apple.com
 iad.prod.telemetry.taskei.amazon.dev
 iad1.ipromote.com
 iad2.ipromote.com
@@ -134718,10 +134704,8 @@ iad3.ipromote.com
 iad4.ipromote.com
 iadbefbjbjcfhgieaaeg.world
 iadbsntna.com
-iadcontent.apple.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
-iadmoo.apple.com
 iadmusicmat.music.126.net
 iadmusicmatvideo.music.126.net
 iadnet.com
@@ -134729,12 +134713,10 @@ iadnsamqheemb.space
 iads.fazcdn.net
 iads.staticscdn.net
 iads.unity3d.com
-iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
 iadsvbox2.com
 iadvert.net
-iadworkbench.apple.com
 iaeaadfleusbk.site
 iaefd.katespade.com
 iaets.kodiakcakes.com
@@ -177962,7 +177944,6 @@ metrics.apoteket.se
 metrics.apotekhjartat.se
 metrics.app.flow.com.ar
 metrics.appartcity.com
-metrics.apple.com
 metrics.apps.ge.com
 metrics.appsumo.com
 metrics.apteka.net.ua
@@ -180038,7 +180019,6 @@ metrics.nysdot.gov
 metrics.nysifdb.com
 metrics.o-int.webex.com
 metrics.o.webex.com
-metrics.o11y.goodnotes-devops.com
 metrics.o2online.de
 metrics.oanda.com
 metrics.occasions.jeanlain.com
@@ -190177,8 +190157,6 @@ newrock-sklep.club
 newrotatormarch23.bid
 newrrb.bid
 news-af.op-mobile.opera.com
-news-analytics-events.apple.com
-news-app-events.apple.com
 news-bbipasu.today
 news-bfujufa.cc
 news-bhekano.today
@@ -190187,7 +190165,6 @@ news-bnubiko.cc
 news-byabuye.live
 news-cdn.site
 news-earth.com
-news-events.apple.com
 news-finances.com
 news-fun.com
 news-glance.com
@@ -190195,12 +190172,10 @@ news-headlines.co
 news-img.site
 news-info.gcgfinancial.com
 news-kogesa.com
-news-notification-events.apple.com
 news-postseven.com
 news-revolut.com
 news-sodahe.com
 news-sphere.com
-news-sports-events.apple.com
 news-xjixere.cc
 news-xlelape.com
 news-xmoweya.com
@@ -192507,7 +192482,6 @@ notepadpius.com
 notepadpiusplus.com
 notepadpiusplus.org
 noteranathem.shop
-notes-analytics-events.apple.com
 notes-analytics-events.news.apple-dns.net
 notfall-card.com
 notfall-installateur.at
@@ -205354,7 +205328,6 @@ phonemus.net
 phoneresult.com
 phonesex-maturelady.com
 phonesrefurb.com
-phonesubmissions.apple.com
 phoneupstandingcatholic.com
 phoneway.mobi
 phonewx.com
@@ -210136,7 +210109,6 @@ podcast.e.adobe.com
 podcast.thisisdax.com
 podcast.zeabur.app
 podcastfilms.com
-podcasts-analytics-events.apple.com
 podcorn.com
 podcxz.icu
 poddishdimaris.cyou
@@ -211967,7 +211939,6 @@ prd-collector-platform.ex.co
 prd-collector-requests.ex.co
 prd-dvc-pod3-telemetry-alb-podlb-2098002532.us-east-1.elb.amazonaws.com
 prd-eus2-rc-df-analytics-gtm.azurewebsites.net
-prd-usw2-requestattribution-iad.apple.com
 prd.api.bleacherreport.com
 prd.epsilon-rtr.dotomi.com
 prd.jwpltx.com
@@ -213944,7 +213915,6 @@ proximusnv.tt.omtrdc.net
 proxistore.com
 proxmox-scripts.com
 proxtrend.com
-proxy-skadnetwork.apple.com
 proxy.am
 proxy.dzeio.com
 proxy.feed.hellominds.ai
@@ -232973,7 +232943,6 @@ search5-search.ixigua.com
 searchacross.com
 searchad-phinf.pstatic.net
 searchad-phinf.pstatic.net.static.gscdn.net
-searchads.apple.com
 searchads.google.com
 searchads.lb-apple.com.akadns.net
 searchanyway.com
@@ -233479,7 +233448,6 @@ securemed.shop
 securemedsshop.com
 securemetrics-cn.v.aaplimg.com
 securemetrics-z.v.aaplimg.com
-securemetrics.apple.com
 securemetrics.apple.com.cn
 securemetrics.athletawell.com
 securemetrics.bananarepublic.eu
@@ -250878,7 +250846,6 @@ smartlook.cloud
 smartlook.com
 smartmad.com
 smartmeapp.com
-smartmetrics.apple.com
 smartmetrics.co.uk
 smartmnews.pro
 smartmoney-ai-platform.pro
@@ -279602,9 +279569,7 @@ stockingsneeze.com
 stockio.shop
 stockpair.com
 stockpresentsauspice.com
-stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
-stocks-analytics.apple.com
 stockskate.com
 stocksy.net
 stocktheme.com
@@ -288007,7 +287972,6 @@ telemetry.api.swiftkey.com
 telemetry.api.wmcdp.io
 telemetry.app.viator.com
 telemetry.appewa.com
-telemetry.apple.com
 telemetry.art19.com
 telemetry.assemblyai.com
 telemetry.astro.build
@@ -302287,7 +302251,6 @@ tuzoufxhjnejx.online
 tuzrzvnrtwtbg.space
 tv-abonnement.fr
 tv-ads.ru
-tv-analytics-events.apple.com
 tv-longzhu-online.com
 tv-show-tracker-81e25.firebaseapp.com
 tv-sideboards-sale.com
@@ -316196,9 +316159,7 @@ wearydouble.com
 weasel.madebytune.be
 weasel.sharethegoods.ca
 weastde.com
-weather-analytics-events.apple.com
 weather-analytics-events.news.apple-dns.net
-weather-analytics.apple.com
 weather-community-drcn.weather.dbankcloud.cn
 weather.bloblohub.com
 weather36.com
@@ -326048,7 +326009,6 @@ xoydvcfiseclm.space
 xoymkdgsafcdh.site
 xozqng.imirki9.com
 xp.26vz1uwr3qgfotgk9vuu.cyou
-xp.apple.com
 xp.dankestmowburn.com
 xp.ginnleelrage.com
 xp.maltheoverly.com

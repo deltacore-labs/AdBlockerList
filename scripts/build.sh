@@ -14,22 +14,35 @@ HAGEZI_COUNT=$(grep -cv '^#\|^$' /tmp/hagezi_base.txt)
 echo "HaGeZi entries: $HAGEZI_COUNT"
 
 echo "Merging lists..."
-# Build sorted whitelist (strip comments)
-grep -v '^#\|^$' "$WHITELIST" | sort > /tmp/whitelist_clean.txt
-WHITELIST_COUNT=$(wc -l < /tmp/whitelist_clean.txt)
-echo "Whitelist entries: $WHITELIST_COUNT"
+# Split whitelist into exact entries and wildcard (*.domain.tld) entries
+grep -v '^#\|^$' "$WHITELIST" | grep -v '^\*\.' | sort > /tmp/whitelist_exact.txt
+grep -v '^#\|^$' "$WHITELIST" | grep '^\*\.' | sed 's/^\*\.//' | sort > /tmp/whitelist_wildcards.txt
+WHITELIST_COUNT=$(grep -cv '^#\|^$' "$WHITELIST")
+echo "Whitelist entries: $WHITELIST_COUNT ($(wc -l < /tmp/whitelist_exact.txt) exact, $(wc -l < /tmp/whitelist_wildcards.txt) wildcard)"
+
+# Build merged+deduped list, then apply whitelist
+{
+  grep -v '^#\|^$' /tmp/hagezi_base.txt
+  grep -v '^#\|^$' "$MANUAL"
+  grep -v '^#\|^$' "$EXTENDED"
+} | sort -u > /tmp/merged_domains.txt
+
+# Remove exact matches
+comm -23 /tmp/merged_domains.txt /tmp/whitelist_exact.txt > /tmp/after_exact.txt
+
+# Remove wildcard matches (domains ending in *.whitelisted.tld)
+if [ -s /tmp/whitelist_wildcards.txt ]; then
+  WILDCARD_PATTERN=$(sed 's/\./\\./g' /tmp/whitelist_wildcards.txt | sed 's/^/\\./' | tr '\n' '|' | sed 's/|$//')
+  grep -Ev "(${WILDCARD_PATTERN})$" /tmp/after_exact.txt > /tmp/after_wildcard.txt
+else
+  cp /tmp/after_exact.txt /tmp/after_wildcard.txt
+fi
 
 {
-  # Keep HaGeZi header
   grep '^#' /tmp/hagezi_base.txt
-  # Merge all domain sources, deduplicate, sort, then remove whitelisted domains
-  {
-    grep -v '^#\|^$' /tmp/hagezi_base.txt
-    grep -v '^#\|^$' "$MANUAL"
-    grep -v '^#\|^$' "$EXTENDED"
-  } | sort -u | comm -23 - /tmp/whitelist_clean.txt
+  cat /tmp/after_wildcard.txt
 } > "$OUTPUT"
-rm -f /tmp/whitelist_clean.txt
+rm -f /tmp/whitelist_exact.txt /tmp/whitelist_wildcards.txt /tmp/merged_domains.txt /tmp/after_exact.txt /tmp/after_wildcard.txt
 
 TOTAL=$(grep -cv '^#\|^$' "$OUTPUT")
 MANUAL_COUNT=$(grep -cv '^#\|^$' "$MANUAL")

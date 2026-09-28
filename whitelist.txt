@@ -257,3 +257,14 @@ featureassets.org
 assetsconfigcdn.org
 prodregistryv2.org
 beyondwickedmapping.org
+
+# === GoodNotes (vollständige Domain-Liste laut Support) ===
+*.goodnotes.com
+*.cdn.goodnotes.com
+*.goodnotescloud.com
+*.goodnotes-devops.com
+mail.goodnotes.com
+cloudflare-dns.com
+
+# === Apple (alle Subdomains freigeben) ===
+*.apple.com
