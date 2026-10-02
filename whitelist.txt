@@ -44,11 +44,21 @@ windowsupdate.com
 update.microsoft.com
 download.microsoft.com
 
-# === Apple ===
+# === Apple (alle Dienste) ===
 apple.com
+*.apple.com
 icloud.com
+*.icloud.com
 me.com
+*.me.com
 mac.com
+*.mac.com
+mzstatic.com
+*.mzstatic.com
+apple-cloudkit.com
+*.apple-cloudkit.com
+cdn-apple.com
+*.cdn-apple.com
 
 # === Google (alle Dienste) ===
 google.com
@@ -194,63 +204,6 @@ sat1.de
 kabel1.de
 sixx.de
 
-# === Apple App Store & iCloud Sync ===
-# App Store Kern-Infrastruktur (ohne diese läuft App Store / Updates nicht)
-bag.itunes.apple.com
-init.itunes.apple.com
-mzstatic.com
-partiality.itunes.apple.com
-su.itunes.apple.com
-itunes.apple.com
-apps.apple.com
-appstore.apple.com
-iosapps.itunes.apple.com
-buying.itunes.apple.com
-carrierbundle.itunes.apple.com
-reviews.itunes.apple.com
-
-# iCloud Sync (GoodNotes, Kontakte, Kalender, etc.)
-icloud.com
-apple-cloudkit.com
-cdn-apple.com
-setup.icloud.com
-p01-bookmarks.icloud.com
-p02-bookmarks.icloud.com
-p01-caldav.icloud.com
-p02-caldav.icloud.com
-p01-carddav.icloud.com
-p02-carddav.icloud.com
-p01-content.icloud.com
-p02-content.icloud.com
-p01-docws.icloud.com
-p02-docws.icloud.com
-p01-fmf.icloud.com
-p02-fmf.icloud.com
-p01-keyvalueservice.icloud.com
-p02-keyvalueservice.icloud.com
-p01-quota.icloud.com
-p02-quota.icloud.com
-
-# Apple Software Updates
-swscan.apple.com
-swcdn.apple.com
-swdist.apple.com
-swpost.apple.com
-gdmf.apple.com
-mesu.apple.com
-oscdn.apple.com
-updates-http.cdn-apple.com
-updates.cdn-apple.com
-configuration.apple.com
-albert.apple.com
-gs.apple.com
-captive.apple.com
-
-# App-Start & Aktivierung
-launch.apple.com
-securemvt.apple.com
-experiments.apple.com
-
 # === GoodNotes ===
 goodnotes.com
 goodnotescloud.com
@@ -273,6 +226,3 @@ beyondwickedmapping.org
 *.goodnotes-devops.com
 mail.goodnotes.com
 cloudflare-dns.com
-
-# === Apple (alle Subdomains freigeben) ===
-*.apple.com

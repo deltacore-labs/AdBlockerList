@@ -239,11 +239,6 @@ fls-eu.amazon-adsystem.com
 fls-na.amazon-adsystem.com
 s.amazon-adsystem.com
 
-# Apple Tracking
-metrics.icloud.com
-xp.apple.com
-bag.itunes.apple.com
-init.itunes.apple.com
 
 # Spotify Ads
 adeventtracker.spotify.com
