@@ -15646,7 +15646,6 @@ acevupgymfcdc.website
 acexedge.com
 aceyearling.com
 acf60dec54.f435ee855c.com
-acfeedbackws.icloud.com
 acfoin.deppoavantaj.com
 acfth.broadwayinchicago.com
 acg669.com
@@ -103939,7 +103938,6 @@ feedbackstorage.blob.core.chinacloudapi.cn
 feedbackws.fe.apple-dns.cn
 feedbackws.fe.apple-dns.net
 feedbackws.fe2.apple-dns.net
-feedbackws.icloud.com
 feedbackws.icloud.com.cn
 feedcat.net
 feeder.co
@@ -176128,7 +176126,6 @@ metrics-collector.invitro.ru
 metrics-collector.noffice.conceptboard.com
 metrics-collector.prod.sketch.com
 metrics-collector.tidio.co
-metrics-config.icloud.com
 metrics-content.duckduckgo.com
 metrics-cpa.webflow.io
 metrics-dev-1.comwww.imdb.comforums.newtek.comforums.macrumors.comanswers.sap.comforum.duolingo.com
@@ -177799,7 +177796,6 @@ metrics.ibis-styles-nagold.com
 metrics.ice.gov
 metrics.icemakerdirect.com
 metrics.iclinic.com.br
-metrics.icloud.com
 metrics.iconfitness.com
 metrics.ideal.es
 metrics.idealisalvas.hu
@@ -178407,7 +178403,6 @@ metrics.mytrendyphone.se
 metrics.mytributes.com.au
 metrics.myvi.in
 metrics.myyellow.com
-metrics.mzstatic.com
 metrics.n-tv.de
 metrics.n-tv.de.gg
 metrics.napacanada.com
