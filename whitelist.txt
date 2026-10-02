@@ -50,23 +50,31 @@ icloud.com
 me.com
 mac.com
 
-# === Google (Kernfunktionen, keine Werbung) ===
-accounts.google.com
-mail.google.com
-myaccount.google.com
-play.google.com
-scholar.google.com
-drive.google.com
-docs.google.com
-calendar.google.com
-fonts.google.com
-fonts.gstatic.com
+# === Google (alle Dienste) ===
+google.com
+*.google.com
+googleapis.com
+*.googleapis.com
 gstatic.com
-maps.google.com
-maps.googleapis.com
-translate.google.com
-translate.googleapis.com
-support.google.com
+*.gstatic.com
+youtube.com
+*.youtube.com
+googlevideo.com
+*.googlevideo.com
+ggpht.com
+*.ggpht.com
+doubleclick.net
+*.doubleclick.net
+googlesyndication.com
+*.googlesyndication.com
+googleadservices.com
+*.googleadservices.com
+google-analytics.com
+*.google-analytics.com
+googletagmanager.com
+*.googletagmanager.com
+googletagservices.com
+*.googletagservices.com
 
 # === Amazon (Shop & AWS-Infrastruktur) ===
 amazon.com

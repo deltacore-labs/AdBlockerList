@@ -65,36 +65,7 @@ log-va.tiktokv.com
 mon.tiktokv.com
 sf16-scmcdn-va.ibytedtos.com
 
-# YouTube Ads
-s.youtube.com
-ads.youtube.com
-yt3.ggpht.com
-
 # === Analytics ===
-# Google Analytics / Tag Manager
-google-analytics.com
-analytics.google.com
-googletagmanager.com
-googletagservices.com
-googlesyndication.com
-pagead2.googlesyndication.com
-pagead2.googleadservices.com
-adservice.google.com
-stats.g.doubleclick.net
-cm.g.doubleclick.net
-ad.doubleclick.net
-ad-g.doubleclick.net
-ad-apac.doubleclick.net
-ad-emea.doubleclick.net
-ad-ace.doubleclick.net
-accounts.doubleclick.net
-fls.doubleclick.net
-cm.g.doubleclick.net
-securepubads.g.doubleclick.net
-pubads.g.doubleclick.net
-imasdk.googleapis.com
-tpc.googlesyndication.com
-
 # Yahoo Analytics
 analytics.yahoo.com
 ads.yahoo.com
