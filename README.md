@@ -25,12 +25,12 @@ https://cdn.jsdelivr.net/gh/deltacore-labs/AdBlockerList@main/blocklist.txt
 
 | Quelle | Einträge |
 |---|---|
-| HaGeZi Multi PRO Blocklist | 195726 |
+| HaGeZi Multi PRO Blocklist | 193358 |
 | Manuell ergänzt | 181 |
 | Erweiterte Subdomain-Liste | 104220 |
-| **Gesamt** | **298825** |
+| **Gesamt** | **296610** |
 
-Letzte Aktualisierung: 2026-10-10
+Letzte Aktualisierung: 2026-10-11
 
 ### Manuell ergänzte Kategorien (`manual_additions.txt`)
 
