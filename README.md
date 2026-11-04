@@ -30,7 +30,7 @@ https://cdn.jsdelivr.net/gh/deltacore-labs/AdBlockerList@main/blocklist.txt
 | Erweiterte Subdomain-Liste | 104220 |
 | **Gesamt** | **349673** |
 
-Letzte Aktualisierung: 2026-11-03
+Letzte Aktualisierung: 2026-11-04
 
 ### Manuell ergänzte Kategorien (`manual_additions.txt`)
 
